@@ -10,6 +10,8 @@ A tactile SwiftUI credits stepper with layered bevel strokes, spring animations,
 
 ## Preview
 
+<video src="assets/demo.mp4" autoplay loop muted playsinline width="100%"></video>
+
 | iPhone | iPad |
 |--------|------|
 | 1× scale | 1.5× scale |

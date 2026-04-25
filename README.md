@@ -2,9 +2,9 @@
 
 A tactile SwiftUI credits stepper with layered bevel strokes, spring animations, and adaptive iPad scaling.
 
-> 🐦 [See it in action on X](https://x.com/Vraj247/status/2047978624209580336?s=20)
-> 
-> 💡 Inspired by [this post](https://x.com/BrettFromDJ/status/2041242690633990297) by Brett
+https://github.com/user-attachments/assets/c372626f-1c6c-4760-ad6f-8cb2bf824f45
+
+https://x.com/Vraj247/status/2047978624209580336?s=20
 
 ---
 
